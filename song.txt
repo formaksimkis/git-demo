@@ -44,3 +44,5 @@ Don't walk away, don't walk away
 Ooh, when the world is burning
 Don't walk away, don't walk away
 Ooh, when the heart is yearning
+
+add new string
